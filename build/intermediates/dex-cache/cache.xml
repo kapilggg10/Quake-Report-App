@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\KAPIL\.android\build-cache\0656fef391d6291a606888fabb172bc6829a3d98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\KAPIL\Downloads\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0dd3d6a7eebfab58fa98d2f4d47cd9b7105dc756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KAPIL\Downloads\ud843-QuakeReport-starting-point\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c79e6f7a5b6648dbf37272786ca78f5f8faab72">
+        <dex dex="C:\Users\KAPIL\Downloads\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e7ba1c281ccbd9720f51804d39fa17aa6243525a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KAPIL\.android\build-cache\662821fb23484135729ed7e884d63fcdc5fc9945\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\KAPIL\Downloads\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_5970e9745d434d6ec923a45890d8348904933786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KAPIL\.android\build-cache\662821fb23484135729ed7e884d63fcdc5fc9945\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\KAPIL\Downloads\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7635d7c41f4b5a9301f135793ae75ea999e7eef1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KAPIL\.android\build-cache\f9728672dfbb18e493ce998791e2164818a628c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\KAPIL\Downloads\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04de5b20a42546c6fe797f87b4b7b2369074f6d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KAPIL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\KAPIL\Downloads\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_d245584c0dec8ced24c0cc12f3b17726e3ff5b89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KAPIL\.android\build-cache\6dee9d8604fdcf13c2cc768810f3a330eba800c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\KAPIL\Downloads\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ec5821db86bdc7abf7d0db1c3a2af56c079fef8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KAPIL\Downloads\ud843-QuakeReport-starting-point\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\KAPIL\Downloads\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d893a8d0478d84a838c21b992cd8a958a0a21c2b\classes.dex" />
+    </item>
+
+</items>
